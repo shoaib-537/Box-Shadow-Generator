@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to left, #a8ff78, #78ffd6);
+}
+
+.controls {
+  width: 40vw;
+  color: azure;
+  background-color: rgb(239, 240, 241, 0.7);
+  padding: 3rem;
+  border-radius: 20px;
+
+}
+ label{
+  color: black;
+  
+ }
+
+.box {
+  text-align: center;
+  padding: 20vh 0px;
+  width: 40vw;
+  height: 50vh;
+  background-image: linear-gradient(to left, #273023, #06503a);
+  color: rgb(255, 251, 251);
+}
